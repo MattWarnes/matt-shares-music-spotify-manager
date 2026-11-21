@@ -1,0 +1,6 @@
+:root{--bg:#0f1411;--fg:#e7eee9;--muted:#93a199;--accent:#1ed760}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,Segoe UI,Arial,sans-serif}
+main{max-width:720px;margin:0 auto;padding:40px 20px}
+h1{font-size:28px;margin:0 0 8px}h2{font-size:20px;margin:28px 0 8px}
+a{color:var(--accent)}p,li{color:var(--fg)}.muted{color:var(--muted)}
+nav a{margin-right:16px}
